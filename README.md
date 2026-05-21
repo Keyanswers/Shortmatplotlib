@@ -2,7 +2,6 @@
 title: "Visualization Pandas"
 author: "Juan Carlos Rubio Polania"
 date: "2024-05-06"
-output: html_document
 ---
 
 # Data Visualization with Pandas and Matplotlib 📊🐍📈
