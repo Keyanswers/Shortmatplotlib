@@ -1,6 +1,6 @@
 ---
 title: "Visualization Pandas"
-author: "Juan Carlos Rubio Polania"
+author: "Juan Carlos Rubio Polania, PhD"
 date: "2024-05-06"
 ---
 
